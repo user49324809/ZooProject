@@ -1,0 +1,29 @@
+# Файлы сборки
+bin/
+obj/
+
+# Файлы пользователя Visual Studio
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Файлы логов и временные файлы
+*.log
+*.vs/
+.vscode/
+
+# NuGet пакеты
+*.nupkg
+*.snupkg
+packages/
+
+# Rider IDE
+.idea/
+
+# ОС
+*.DS_Store
+Thumbs.db
+
+# Папки с кэшом
+*.vs/
